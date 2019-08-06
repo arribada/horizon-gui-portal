@@ -2,9 +2,9 @@
 
 Set app.py permissions:
 
-`chown pi webserver/app.y`
+`chown pi webserver/app.py`
 
-`chmod +x webserver/app.y`
+`chmod +x webserver/app.py`
 
 Navigate to the services folder:
 
